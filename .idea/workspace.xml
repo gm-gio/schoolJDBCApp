@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91a7b760-b327-4335-8b55-5b8efab8b3fb" name="Changes" comment="fixed last comments." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bNHuGBhIruAkXv0ofv5VXOKnJx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "JUnit.CourseDAOImplTest.executor": "Run",
+    "JUnit.CourseDAOImplTest.shouldCreateCourse.executor": "Run",
+    "JUnit.CourseDAOImplTest.shouldDeleteById.executor": "Run",
+    "JUnit.CourseDAOImplTest.shouldFindAllCourses.executor": "Run",
+    "JUnit.CourseDAOImplTest.shouldFindById.executor": "Run",
+    "JUnit.CourseDAOImplTest.shouldNotFindById.executor": "Run",
+    "JUnit.CourseDAOImplTest.shouldUpdateCourse.executor": "Run",
+    "JUnit.GroupDAOImplTest.executor": "Run",
+    "JUnit.GroupDAOImplTest.shouldDeleteGroupById.executor": "Run",
+    "JUnit.GroupDAOImplTest.shouldFindAllGroup.executor": "Run",
+    "JUnit.GroupDAOImplTest.shouldFindAllGroups.executor": "Run",
+    "JUnit.GroupDAOImplTest.shouldFindGroupById.executor": "Run",
+    "JUnit.GroupDAOImplTest.shouldFindGroupsByStudentCount.executor": "Run",
+    "JUnit.GroupDAOImplTest.shouldUpdateGroup.executor": "Run",
+    "JUnit.StudentDAOImplTest.executor": "Run",
+    "JUnit.StudentDAOImplTest.shouldCreatNewStudent.executor": "Run",
+    "JUnit.StudentDAOImplTest.shouldCreateNewStudent.executor": "Run",
+    "JUnit.StudentDAOImplTest.shouldDeleteStudentById.executor": "Run",
+    "JUnit.StudentDAOImplTest.shouldFindStudentById.executor": "Run",
+    "JUnit.StudentDAOImplTest.shouldFindStudentByIdj.executor": "Run",
+    "JUnit.StudentDAOImplTest.shouldFindStudentByiD.executor": "Run",
+    "JUnit.StudentDAOImplTest.shouldToFindStudentByCourse.executor": "Run",
+    "JUnit.StudentDAOImplTest.shouldUpdateStudent.executor": "Run",
+    "JUnit.StudentsCoursesDAOImplTest.executor": "Run",
+    "JUnit.StudentsCoursesDAOImplTest.shouldAddStudentToCourse.executor": "Run",
+    "JUnit.StudentsCoursesDAOImplTest.shouldAddedStudentToCourse.executor": "Run",
+    "JUnit.StudentsCoursesDAOImplTest.shouldDeleteStudentFromCourse.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "dev",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/giorg/IdeaProjects/javalearninghub/dao/src/test/java",
+    "last_opened_file_path": "C:/Users/giorg/IdeaProjects/schoolscpringjdbc-hibernete/schoolspring-jdbc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.course.Main" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseDAOImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.course.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.course.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.java.course.dao.impl.CourseDAOImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupDAOImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.course.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.course.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.java.course.dao.impl.GroupDAOImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentDAOImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.course.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.course.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.java.course.dao.impl.StudentDAOImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentsCoursesDAOImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.course.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.course.dao.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.java.course.dao.impl.StudentsCoursesDAOImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CourseDAOImplTest" />
+        <item itemvalue="JUnit.GroupDAOImplTest" />
+        <item itemvalue="JUnit.StudentDAOImplTest" />
+        <item itemvalue="JUnit.StudentsCoursesDAOImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91a7b760-b327-4335-8b55-5b8efab8b3fb" name="Changes" comment="" />
+      <created>1706048836568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706048836568</updated>
+      <workItem from="1706052682054" duration="483000" />
+      <workItem from="1706053433784" duration="466000" />
+      <workItem from="1706105132305" duration="13374000" />
+      <workItem from="1706121192437" duration="3775000" />
+      <workItem from="1706195058148" duration="9091000" />
+      <workItem from="1706282836535" duration="11694000" />
+      <workItem from="1706297540287" duration="63000" />
+      <workItem from="1706345328269" duration="18363000" />
+      <workItem from="1706519367438" duration="324000" />
+      <workItem from="1706549161223" duration="1178000" />
+      <workItem from="1706550361765" duration="6222000" />
+      <workItem from="1706610243886" duration="38000" />
+      <workItem from="1706611759930" duration="16705000" />
+      <workItem from="1706634711943" duration="2098000" />
+      <workItem from="1706636960689" duration="670000" />
+      <workItem from="1706689131092" duration="3252000" />
+      <workItem from="1706711267629" duration="2700000" />
+      <workItem from="1706714101914" duration="1217000" />
+      <workItem from="1706718262363" duration="1513000" />
+      <workItem from="1706721636687" duration="3217000" />
+      <workItem from="1706806177203" duration="32000" />
+      <workItem from="1706813929559" duration="271000" />
+      <workItem from="1706814334920" duration="9000" />
+      <workItem from="1707136500171" duration="113000" />
+      <workItem from="1707220086966" duration="1168000" />
+      <workItem from="1707223008597" duration="59000" />
+      <workItem from="1707229254079" duration="355000" />
+      <workItem from="1707316102182" duration="672000" />
+      <workItem from="1707322163063" duration="539000" />
+      <workItem from="1707399745580" duration="2413000" />
+      <workItem from="1707407827874" duration="180000" />
+      <workItem from="1707415311261" duration="30000" />
+      <workItem from="1707826645791" duration="140000" />
+      <workItem from="1707828787756" duration="716000" />
+      <workItem from="1707833223873" duration="57000" />
+      <workItem from="1713368368485" duration="17000" />
+      <workItem from="1713517056424" duration="57000" />
+      <workItem from="1715530088857" duration="452000" />
+    </task>
+    <task id="LOCAL-00001" summary="added MenuManagerImpl.&#10;added DefaultConsoleImpl.&#10;fixed sql scripts.&#10;fixed main class.">
+      <option name="closed" value="true" />
+      <created>1706201412307</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706201412307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed CourseDAOImplTest.">
+      <option name="closed" value="true" />
+      <created>1706206463409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706206463409</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed GroupDAOImpl.&#10;Created GroupDAOImplTest.">
+      <option name="closed" value="true" />
+      <created>1706296717747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706296717747</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added StudentDAOImplTest">
+      <option name="closed" value="true" />
+      <created>1706361848820</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706361848821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added StudentsCoursesDAOImplTest">
+      <option name="closed" value="true" />
+      <created>1706364726271</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706364726272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed test classes">
+      <option name="closed" value="true" />
+      <created>1706556024987</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706556024987</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed test CourseDAOImpl methods.&#10;fixed MenuManager methods.">
+      <option name="closed" value="true" />
+      <created>1706619864996</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706619864996</updated>
+    </task>
+    <task id="LOCAL-00008" summary="the transfer of methods from StudentsCoursesDAOImpls to CoursesDAOImpl has been implemented.">
+      <option name="closed" value="true" />
+      <created>1706692155002</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706692155002</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed all comments.">
+      <option name="closed" value="true" />
+      <created>1706713700847</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706713700847</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed test classes.">
+      <option name="closed" value="true" />
+      <created>1706713785200</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706713785200</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixed last comments.">
+      <option name="closed" value="true" />
+      <created>1706714829930</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706714829930</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixed last comments.">
+      <option name="closed" value="true" />
+      <created>1706715646130</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706715646130</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added courseDAO tests" />
+    <MESSAGE value="added MenuManagerImpl.&#10;added DefaultConsoleImpl.&#10;fixed sql scripts.&#10;fixed main class." />
+    <MESSAGE value="fixed CourseDAOImplTest." />
+    <MESSAGE value="fixed GroupDAOImpl.&#10;Created GroupDAOImplTest." />
+    <MESSAGE value="added StudentDAOImplTest" />
+    <MESSAGE value="added StudentsCoursesDAOImplTest" />
+    <MESSAGE value="fixed test classes" />
+    <MESSAGE value="fixed test CourseDAOImpl methods.&#10;fixed MenuManager methods." />
+    <MESSAGE value="the transfer of methods from StudentsCoursesDAOImpls to CoursesDAOImpl has been implemented." />
+    <MESSAGE value="fixed all comments." />
+    <MESSAGE value="fixed test classes." />
+    <MESSAGE value="fixed last comments." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed last comments." />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((StudentDAOImplTest)this).studentDAO" custom="com.java.course.dao.impl.StudentDAOImplTest" />
+        <watch expression="databaseManager.password" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
